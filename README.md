@@ -2,7 +2,7 @@
 
 ### Thanks for your interest in this lesson
 
-<img align="right" src="[./heart_disease.webp](https://github.com/Nezu-life/KNN_Heart_Disease/blob/main/heart_disease.webp)" width='250'>
+<img align="right" src="https://github.com/Nezu-life/KNN_Heart_Disease/blob/main/heart_disease.webp" width='250'>
 
 This is a simple example of how to use the KNN algorithm to diagnose heart disease.
 Evidently, there is a long way before this thing is ready for clinical applications, but still, a long journey starts with the first step.
