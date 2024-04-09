@@ -11,6 +11,7 @@ And you are here, today.
 
 Now, here are some links of interest:
 > - **The Data Science for Medicine and Biology Course:**
+
 https://www.nezulife.com/p/data-science-for-medicine-and-biology
 
 And THANKS for everyone who joined our community. You are NOT alone in this challenge.
